@@ -1,0 +1,19 @@
+{
+  "name": "markitdown",
+  "version": "0.1.0",
+  "description": "Convert PDF, Word, PowerPoint, Excel, HTML, images, audio and more to Markdown via Microsoft MarkItDown (MCP server).",
+  "author": {
+    "name": "annamariia-hleba"
+  },
+  "homepage": "https://github.com/microsoft/markitdown",
+  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "pdf",
+    "docx",
+    "pptx",
+    "xlsx",
+    "conversion",
+    "mcp"
+  ]
+}

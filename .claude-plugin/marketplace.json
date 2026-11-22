@@ -1,0 +1,13 @@
+{
+  "name": "markitdown-tools",
+  "owner": { "name": "annamariia-hleba" },
+  "metadata": { "description": "Claude Code plugin that wraps Microsoft MarkItDown" },
+  "plugins": [
+    {
+      "name": "markitdown",
+      "source": "./plugins/markitdown",
+      "description": "Convert PDF, Word, PowerPoint, Excel, HTML, images, audio and more to Markdown via Microsoft MarkItDown (MCP server).",
+      "version": "0.1.0"
+    }
+  ]
+}
